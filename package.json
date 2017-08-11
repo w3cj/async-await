@@ -1,0 +1,18 @@
+{
+  "name": "async_await",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo.js",
+  "scripts": {
+    "start": "reveal-md -w --theme night --highlightTheme hybrid --port 1337 -i custom.js --css styles.css slides.md"
+  },
+  "keywords": [],
+  "author": "w3cj <hello@cjr.co.de>",
+  "license": "MIT",
+  "dependencies": {
+    "express-zero-config": "^1.1.2",
+    "faker": "^4.1.0",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.0"
+  }
+}

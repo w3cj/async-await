@@ -58,3 +58,5 @@ typings/
 .env
 
 Top500Albums-CRUD-APP
+
+dist

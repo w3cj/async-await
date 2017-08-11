@@ -323,7 +323,7 @@ async function doThings() {
 * Supported in Node.js 7.6.x
 * Supported in Chrome 55+
 
-![](https://i.imgur.com/TnX2nzb.png)
+<img src="https://i.imgur.com/TnX2nzb.png"/>
 
 ---
 

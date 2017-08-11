@@ -340,6 +340,14 @@ async function doThings() {
 
 ---
 
+<img src="https://s3-us-west-2.amazonaws.com/galvanize.com-dev/galvanize-logo.svg" style="height:200px;width:auto;border:none;background:rgba(0, 0, 0, 0)">
+
+## is Hiring!
+
+[https://gjobs.link/LeadInstructor](https://gjobs.link/LeadInstructor)
+
+---
+
 <!-- .slide: data-background-video="https://cdn.flixel.com/flixel/nmblicrdi8j8iurka7zr.hd.mp4" data-background-video-loop="loop" data-background-video-muted -->
 
 <div class="dark-bg">
